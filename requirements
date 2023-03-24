@@ -1,6 +1,4 @@
 streamlit
 pandas
-sklearn
-KNeighborsRegressor
 scikit-learn
 numpy
